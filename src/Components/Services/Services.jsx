@@ -58,8 +58,9 @@ const Services = () => {
               "lorem Ipsum is simply dummy text of the printing and typesetting industry that has never existed"
               }
           />
+          <div className="blur s-blur2" style={{
+            background:"var(--purple)" }}></div>
         </div>
-
       </div>
     </div>
   );
